@@ -1,8 +1,7 @@
-# React + Vite
+# AudioSight
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Isaiah Desrosiers, Anthony Huarneck, Anile Choice
 
-Currently, two official plugins are available:
+## What is AudioSight?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+AudioSight is a project that visualizes audio in real time from Spotify by means of the Spotify API and p5js.
